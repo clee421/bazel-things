@@ -1,0 +1,4 @@
+- bazel does minimum amount of work necessary everytime
+- sandbox actions - cannot depend on actions not declared
+- be careful of quadratic behavior
+- extendable to support any language

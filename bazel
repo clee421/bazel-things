@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+./bin/bazelisk/1.7.5/bazelisk-darwin-amd64 "$@"
