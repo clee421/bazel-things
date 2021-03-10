@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/clee421/greet"
+	"github.com/clee421/bazel/greet"
 )
 
 func main() {
