@@ -1,4 +1,4 @@
 load("@bazel_gazelle//:def.bzl", "gazelle")
 
-# gazelle:prefix "github.com/clee421/bazel"
+# gazelle:prefix github.com/clee421/bazel
 gazelle(name = "gazelle")
